@@ -14,9 +14,9 @@ python main.py in_dir out_dir mode
 
 where `in_dir` selects the directory from which the tree structure is copied, `out_dir` is the directory where the copy is made and `mode` can be:
 
--`nocopy`: only the name and folder structure is preserved. Default and intended use.
--`docs`: .txt and docs are preserved (filetype package is used for this)
--`docs_images`: .txt, docs are preserved and images are compressed to 64x64 pixels so that the thumbnail can be 
+- `nocopy`: only the name and folder structure is preserved. Default and intended use.
+- `docs`: .txt and docs are preserved (filetype package is used for this)
+- `docs_images`: .txt, docs are preserved and images are compressed to 64x64 pixels so that the thumbnail can be 
 
 Once the new folder is created in 'out_dir' you can navigate the snapshot or send it to someone as a zip file!
 
