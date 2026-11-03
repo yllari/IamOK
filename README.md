@@ -18,7 +18,7 @@ where `in_dir` selects the directory from which the tree structure is copied, `o
 - `docs`: .txt and docs are preserved (filetype package is used for this)
 - `docs_images`: .txt, docs are preserved and images are compressed to 64x64 pixels so that the thumbnail can be 
 
-Once the new folder is created in 'out_dir' you can navigate the snapshot or send it to someone as a zip file!
+Once the new folder is created in `out_dir` you can navigate the snapshot or send it to someone as a zip file!
 
 Example:
 
